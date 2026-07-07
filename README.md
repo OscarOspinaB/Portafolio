@@ -30,7 +30,7 @@ dinámicos.
 👉 **[Ver Código y detalles del Proyecto Aquí]( )** | **[Ver Dashboard Interactivo]()**
 
 
-### 📊 02 Proyecto: Dashboard de Mesa de Ayuda TI
+## 📊 02 Proyecto: Dashboard de Mesa de Ayuda TI
 ---
 **Descripción del proyecto**  
 Solución analítica integral que transforma datos crudos de soporte tecnológico en un centro de comando operativo. El proyecto extrae información automatizada mediante la integración directa con la API JSON de la plataforma oficial de Datos Abiertos Colombia, centralizando el control de requerimientos informáticos institucionales para **Instituto Tolimense de Formación Técnica Profesional de El Espinal, Tolima**.
@@ -49,3 +49,9 @@ Optimizar la toma de decisiones del área de TI mediante un tablero que monitore
 * **Segmentación Avanzada:** Panel lateral de filtros interactivos por Año, Mes, Técnico, Solicitante, Estado y Prioridad para un análisis a la medida.
 
 👉 **[Ver Detalles del Proyecto Aquí](https://github.com/OscarOspinaB/dashboard-powerbi-tickets-mesa-ayuda-ti)** | **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiMjMxYWYxZTgtNjJmNi00MmZhLWI4NzMtNTMzNmQzMmNkMDRhIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
+
+💡 *Tip: Te recomiendo abrir los enlaces externos en una nueva pestaña (haciendo clic con la rueda del mouse o presionando Ctrl / Cmd + Clic) para no perder de vista este portafolio.*
+
+### Vista Previa al Dashboard
+<img width="898" height="258" alt="vista previa TI" src="https://github.com/user-attachments/assets/e9104f9f-ef83-4223-aa7d-5e42de2ef0fd" />
+
