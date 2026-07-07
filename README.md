@@ -15,11 +15,11 @@ dinámicos.
 
 ## 📑 Índice de Proyectos
 
-* [📊 01 Proyecto: Análisis de Datos (Estud-IA)](#-proyecto-análisis-de-datos-estud-ia)
-* [📊 02 Proyecto: Dashboard de Mesa de Ayuda TI](#-proyecto-dashboard-de-mesa-de-ayuda-ti)
+* [📊 01 Proyecto: Análisis de Datos (Estud-IA)](#-01-proyecto-análisis-de-datos-estud-ia)
+* [📊 02 Proyecto: Dashboard de Mesa de Ayuda TI](#-02-proyecto-dashboard-de-mesa-de-ayuda-ti)
 
 
-## 📊 Proyecto: Análisis de Datos (Estud-IA) 
+## 📊 01 Proyecto: Análisis de Datos (Estud-IA) 
 ---
 **Descripción del proyecto:** Pendiente por agregar 
 
@@ -30,8 +30,8 @@ dinámicos.
 👉 **[Ver Código y detalles del Proyecto Aquí]( )** | **[Ver Dashboard Interactivo]()**
 
 
-### 📊 Proyecto: Dashboard de Mesa de Ayuda TI
-
+### 📊 02 Proyecto: Dashboard de Mesa de Ayuda TI
+---
 **Descripción del proyecto**  
 Solución analítica integral que transforma datos crudos de soporte tecnológico en un centro de comando operativo. El proyecto extrae información automatizada mediante la integración directa con la API JSON de la plataforma oficial de Datos Abiertos Colombia, centralizando el control de requerimientos informáticos institucionales para **Instituto Tolimense de Formación Técnica Profesional de El Espinal, Tolima**.
 
