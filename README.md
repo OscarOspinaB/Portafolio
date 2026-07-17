@@ -37,7 +37,7 @@ Proyecto integrador finales de habilidades analíticas. Se procesó un dataset d
   * **Demanda Mayoritaria (Transmisiones):** El **97.41% de las ventas corresponde a vehículos automáticos**, consolidando a la transmisión manual como un activo de baja liquidez y difícil salida en el mercado actual.
 
 ---
-🔗 **[Ver Repositorio del Proyecto](AQUÍ_VA_TU_ENLACE)** | 📈 **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiM2U1ODM0MTItOGQyMS00NmVhLWE5MmItNDZkN2M5OTkxYmQwIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
+🔗 **[Ver Repositorio del Proyecto](https://github.com/OscarOspinaB/Proyecto-Curso-Analisis-de-Datos-Junior-Estud-IA-Venta-de-Vehiculos)** | 📈 **[Ver Dashboard Interactivo](https://app.powerbi.com/view?r=eyJrIjoiM2U1ODM0MTItOGQyMS00NmVhLWE5MmItNDZkN2M5OTkxYmQwIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9)**
 
 [Volver al índice](#-índice-de-proyectos)
 
